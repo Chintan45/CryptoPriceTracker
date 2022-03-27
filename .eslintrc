@@ -1,0 +1,43 @@
+{
+  "parser": "@typescript-eslint/parser",
+  "extends": [
+    "plugin:@typescript-eslint/recommended",
+    "prettier/@typescript-eslint",
+    "plugin:prettier/recommended",
+    "plugin:react/recommended"
+  ],
+  "plugins": ["@typescript-eslint", "react", "react-hooks", "react-native"],
+  "rules": {
+    "no-trailing-spaces": "warn",
+    "comma-dangle": "off",
+    "quotes": [
+      "error",
+      "single",
+      {
+        "avoidEscape": true
+      }
+    ],
+    "semi": "warn",
+    "@typescript-eslint/no-var-requires": "off",
+    "@typescript-eslint/ban-types": "off",
+    "@typescript-eslint/explicit-module-boundary-types": "off",
+    "@typescript-eslint/ban-ts-ignore": "off",
+    "@typescript-eslint/camelcase": "off",
+    "@typescript-eslint/no-non-null-assertion": "off",
+    "react/prop-types": 0,
+    "react-hooks/rules-of-hooks": "error",
+    "react-hooks/exhaustive-deps": "error",
+    "react-native/no-unused-styles": 0,
+    "react-native/split-platform-components": 2,
+    "react-native/no-inline-styles": 2,
+    "react-native/no-color-literals": 2,
+    "react-native/no-raw-text": 2,
+    "react-native/no-single-element-style-arrays": 2,
+    "jsx-a11y/accessible-emoji": 0
+  },
+  "settings": {
+    "react": {
+      "version": "17.0.2"
+    }
+  }
+}

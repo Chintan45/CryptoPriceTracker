@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "205465619774",
+    "project_id": "cryptopricetracker-1fced",
+    "storage_bucket": "cryptopricetracker-1fced.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205465619774:android:866ebaf903e2142699b06f",
+        "android_client_info": {
+          "package_name": "com.yoapps.cryptoprice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205465619774-8m8lg5utlob0iigb9qgar8c2aasklmrh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWXLjqUu2YX-dca1KJKJxH-5m2YniFNWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205465619774-8m8lg5utlob0iigb9qgar8c2aasklmrh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
