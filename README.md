@@ -4,7 +4,7 @@
 
 The Crypto Price Tracker is a comprehensive mobile application designed to provide real-time tracking of over 10,000 cryptocurrencies. This app is a must-have for anyone invested in the dynamic world of cryptocurrencies. This app brings you closer to your investment goals with its detailed analysis and user-friendly design.
 
-![Portfolio Overview](/CryptoPriceTracker/screenshots/Feature_Graphic.jpg "Portfolio Overview")
+![Portfolio Overview](/screenshots/Feature_Graphic.jpg "Portfolio Overview")
 
 ## Features
 
@@ -16,14 +16,14 @@ The Crypto Price Tracker is a comprehensive mobile application designed to provi
 
 ## App Screenshots
 <p align="center">
-    <img src="/CryptoPriceTracker/screenshots/Android%201.jpg" width="30%" style="max-width: 300px; min-width: 200px;" alt="Screenshot-1" />
-    <img src="/CryptoPriceTracker/screenshots/Android%202.jpg" width="30%" style="max-width: 300px; min-width: 200px;" alt="Screenshot-2" />
-    <img src="/CryptoPriceTracker/screenshots/Android%203.jpg" width="30%" style="max-width: 300px; min-width: 200px;" alt="Screenshot" />
+    <img src="/screenshots/Android%201.jpg" width="30%" style="max-width: 300px; min-width: 200px;" alt="Screenshot-1" />
+    <img src="/screenshots/Android%202.jpg" width="30%" style="max-width: 300px; min-width: 200px;" alt="Screenshot-2" />
+    <img src="/screenshots/Android%203.jpg" width="30%" style="max-width: 300px; min-width: 200px;" alt="Screenshot" />
 </p>
 <p align="center">
-    <img src="/CryptoPriceTracker/screenshots/Android%204.jpg" width="30%" style="max-width: 300px; min-width: 200px;" alt="Screenshot" />
-    <img src="/CryptoPriceTracker/screenshots/Android%205.jpg" width="30%" style="max-width: 300px; min-width: 200px;" alt="Screenshot" />
-    <img src="/CryptoPriceTracker/screenshots/Android%206.jpg" width="30%" style="max-width: 300px; min-width: 200px;" alt="Screenshot" />
+    <img src="/screenshots/Android%204.jpg" width="30%" style="max-width: 300px; min-width: 200px;" alt="Screenshot" />
+    <img src="/screenshots/Android%205.jpg" width="30%" style="max-width: 300px; min-width: 200px;" alt="Screenshot" />
+    <img src="/screenshots/Android%206.jpg" width="30%" style="max-width: 300px; min-width: 200px;" alt="Screenshot" />
 </p>
 
 ## Technologies Used
